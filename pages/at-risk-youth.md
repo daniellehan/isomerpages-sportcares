@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: For Youths at Risk
+title: For At RIsk Youth
 permalink: /youth-at-risk/
 breadcrumb: For Youth at Risk
 ---
